@@ -140,7 +140,6 @@
     <Content Include="login.aspx" />
     <Content Include="category.aspx" />
     <Content Include="Manageproduct.aspx" />
-    <Content Include="xyz.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Addproduct.aspx.cs">

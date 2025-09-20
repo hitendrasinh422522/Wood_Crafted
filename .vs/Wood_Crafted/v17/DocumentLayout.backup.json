@@ -1,138 +1,146 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\",
+  "WorkspaceRootPath": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|c:\\users\\abhik\\source\\repos\\wood_crafted\\wood_crafted\\xyz.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\xyz.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|c:\\users\\parth\\source\\repos\\asp.net_parvejsir\\wood_crafted\\wood_crafted\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|c:\\users\\parth\\source\\repos\\asp.net_parvejsir\\wood_crafted\\wood_crafted\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\shop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\shop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|c:\\users\\parth\\source\\repos\\asp.net_parvejsir\\wood_crafted\\wood_crafted\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\message.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|c:\\users\\parth\\source\\repos\\asp.net_parvejsir\\wood_crafted\\wood_crafted\\message.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\message.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\message.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\message.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\shop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\shop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\manageproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\manageproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\manageproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\manageproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\ViewDetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\ViewDetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\users_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\users_admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\viewdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\viewdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\ViewDetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\ViewDetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\viewdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\viewdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\admin_dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\admin_dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Message.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Message.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\users_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\users_admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Manageproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Manageproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Manageproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Manageproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Users_Admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Users_Admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Users_Admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Users_Admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Admin_Dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Admin_Dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Admin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Admin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\category.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\wood_crafted\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:wood_crafted\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Site1.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3F3C6986-3F2D-4D0A-893C-6206CC9F4BAF}|Wood_Crafted\\Wood_Crafted.csproj|solutionrelative:Wood_Crafted\\Site1.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,15 +150,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "shop.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\shop.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\shop.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\shop.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\shop.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\shop.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\shop.aspx.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAwBUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,11 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "shop.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\shop.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\shop.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\shop.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\shop.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\shop.aspx",
               "RelativeToolTip": "Wood_Crafted\\shop.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -171,20 +179,59 @@
               "IsPinned": true
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Web.Release.config",
+              "RelativeDocumentMoniker": "Wood_Crafted\\Web.Release.config",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Web.Release.config",
+              "RelativeToolTip": "Wood_Crafted\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-20T17:19:47.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Wood_Crafted\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Web.Debug.config",
+              "RelativeToolTip": "Wood_Crafted\\Web.Debug.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-20T17:19:37.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Web.config",
+              "RelativeDocumentMoniker": "Wood_Crafted\\Web.config",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Web.config",
+              "RelativeToolTip": "Wood_Crafted\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-20T17:19:21.578Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "xyz.html",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\xyz.html",
-              "RelativeDocumentMoniker": "Wood_Crafted\\xyz.html",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\xyz.html",
-              "RelativeToolTip": "Wood_Crafted\\xyz.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-20T16:59:19.7Z",
+              "DocumentIndex": 3,
+              "Title": "Message.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Message.aspx",
+              "RelativeDocumentMoniker": "Wood_Crafted\\Message.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Message.aspx",
+              "RelativeToolTip": "Wood_Crafted\\Message.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-16T18:38:09.748Z",
               "EditorCaption": ""
             },
             {
@@ -193,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "ViewDetail.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\ViewDetail.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\ViewDetail.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\ViewDetail.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\ViewDetail.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\ViewDetail.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\ViewDetail.aspx.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAxwDcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 7,
               "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\css\\bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\css\\bootstrap.min.css",
               "RelativeDocumentMoniker": "Wood_Crafted\\css\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\css\\bootstrap.min.css",
               "RelativeToolTip": "Wood_Crafted\\css\\bootstrap.min.css",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-09-18T09:09:18.646Z"
@@ -218,21 +265,21 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ViewDetail.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\ViewDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\ViewDetail.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\ViewDetail.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\ViewDetail.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\ViewDetail.aspx",
               "RelativeToolTip": "Wood_Crafted\\ViewDetail.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-18T08:58:43.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "cart.html",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\cart.html",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\cart.html",
               "RelativeDocumentMoniker": "Wood_Crafted\\cart.html",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\cart.html",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\cart.html",
               "RelativeToolTip": "Wood_Crafted\\cart.html",
               "ViewState": "AgIAAM4AAAAAAAAAAAAAANAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -240,11 +287,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "cart.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\cart.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\cart.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\cart.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\cart.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\cart.aspx",
               "RelativeToolTip": "Wood_Crafted\\cart.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -252,11 +299,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Message.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Message.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Message.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\Message.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Message.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Message.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\Message.aspx.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAcwCcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,23 +311,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Message.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Message.aspx",
-              "RelativeDocumentMoniker": "Wood_Crafted\\Message.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Message.aspx",
-              "RelativeToolTip": "Wood_Crafted\\Message.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-16T18:38:09.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 12,
               "Title": "checkout.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\checkout.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\checkout.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\checkout.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\checkout.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\checkout.aspx",
               "RelativeToolTip": "Wood_Crafted\\checkout.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -288,11 +323,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 13,
               "Title": "checkout.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\checkout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\checkout.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\checkout.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\checkout.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\checkout.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\checkout.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -300,11 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "contact.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\contact.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\contact.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\contact.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\contact.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\contact.aspx.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAQwDkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -312,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 15,
               "Title": "contact.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\contact.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\contact.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\contact.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\contact.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\contact.aspx",
               "RelativeToolTip": "Wood_Crafted\\contact.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -324,11 +359,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 16,
               "Title": "about.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\about.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\about.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\about.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\about.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\about.aspx",
               "RelativeToolTip": "Wood_Crafted\\about.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -336,11 +371,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 17,
               "Title": "Logout.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Logout.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\Logout.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Logout.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Logout.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\Logout.aspx.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAywBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -348,11 +383,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 18,
               "Title": "Logout.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Logout.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Logout.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\Logout.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Logout.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Logout.aspx",
               "RelativeToolTip": "Wood_Crafted\\Logout.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -360,11 +395,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "Manageproduct.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Manageproduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Manageproduct.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\Manageproduct.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Manageproduct.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Manageproduct.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\Manageproduct.aspx.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAcwBoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -372,11 +407,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "Manageproduct.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Manageproduct.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Manageproduct.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\Manageproduct.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Manageproduct.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Manageproduct.aspx",
               "RelativeToolTip": "Wood_Crafted\\Manageproduct.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -384,11 +419,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Addproduct.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Addproduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Addproduct.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\Addproduct.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Addproduct.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Addproduct.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\Addproduct.aspx.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAA3wDQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,11 +431,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "Addproduct.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Addproduct.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Addproduct.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\Addproduct.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Addproduct.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Addproduct.aspx",
               "RelativeToolTip": "Wood_Crafted\\Addproduct.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -408,11 +443,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 23,
               "Title": "category.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\category.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\category.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\category.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\category.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\category.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\category.aspx.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -420,11 +455,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "category.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\category.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\category.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\category.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\category.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\category.aspx",
               "RelativeToolTip": "Wood_Crafted\\category.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -432,11 +467,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 25,
               "Title": "Users_Admin.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Users_Admin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Users_Admin.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\Users_Admin.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Users_Admin.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Users_Admin.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\Users_Admin.aspx.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -444,23 +479,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "Users_Admin.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Users_Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Users_Admin.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\Users_Admin.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Users_Admin.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Users_Admin.aspx",
               "RelativeToolTip": "Wood_Crafted\\Users_Admin.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-09T17:34:57.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "Admin_Dashboard.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Admin_Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Admin_Dashboard.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\Admin_Dashboard.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Admin_Dashboard.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Admin_Dashboard.aspx",
               "RelativeToolTip": "Wood_Crafted\\Admin_Dashboard.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -468,23 +503,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "Admin.Master",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Admin.Master",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Admin.Master",
               "RelativeDocumentMoniker": "Wood_Crafted\\Admin.Master",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Admin.Master",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Admin.Master",
               "RelativeToolTip": "Wood_Crafted\\Admin.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-09T17:09:37.301Z"
+              "WhenOpened": "2025-09-09T17:09:37.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "login.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\login.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\login.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\login.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\login.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\login.aspx",
               "RelativeToolTip": "Wood_Crafted\\login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -492,11 +528,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "Register.aspx",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Register.aspx",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Register.aspx",
               "RelativeDocumentMoniker": "Wood_Crafted\\Register.aspx",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Register.aspx",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Register.aspx",
               "RelativeToolTip": "Wood_Crafted\\Register.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -504,11 +540,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "Register.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Register.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\Register.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Register.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\Register.aspx.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwDgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -516,11 +552,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 32,
               "Title": "login.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\login.aspx.cs",
               "RelativeDocumentMoniker": "Wood_Crafted\\login.aspx.cs",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\login.aspx.cs",
               "RelativeToolTip": "Wood_Crafted\\login.aspx.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAgwC0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -528,11 +564,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\index.html",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\index.html",
               "RelativeDocumentMoniker": "Wood_Crafted\\index.html",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\index.html",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\index.html",
               "RelativeToolTip": "Wood_Crafted\\index.html",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -540,11 +576,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "Site1.Master",
-              "DocumentMoniker": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Site1.Master",
+              "DocumentMoniker": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Site1.Master",
               "RelativeDocumentMoniker": "Wood_Crafted\\Site1.Master",
-              "ToolTip": "C:\\Users\\abhik\\source\\repos\\Wood_Crafted\\Wood_Crafted\\Site1.Master",
+              "ToolTip": "C:\\Users\\parth\\source\\repos\\asp.net_parvejsir\\Wood_Crafted\\Wood_Crafted\\Site1.Master",
               "RelativeToolTip": "Wood_Crafted\\Site1.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
