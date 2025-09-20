@@ -121,7 +121,6 @@
     <Content Include="js\tiny-slider.js" />
     <Content Include="Logout.aspx" />
     <Content Include="Message.aspx" />
-    <Content Include="Properties\abc.html" />
     <Content Include="README.txt" />
     <Content Include="services.html" />
     <Content Include="shop.html" />
